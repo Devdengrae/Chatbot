@@ -1,0 +1,3121 @@
+{
+  "title": " Segment Documentation | Segment Documentation",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "href": "#segment-documentation"
+    },
+    {
+      "text": "",
+      "href": "/docs/"
+    },
+    {
+      "text": "Home",
+      "href": "/docs/"
+    },
+    {
+      "text": "What is Segment?",
+      "href": "/docs/getting-started/"
+    },
+    {
+      "text": "How Segment Works",
+      "href": "/docs/getting-started/01-what-is-segment/"
+    },
+    {
+      "text": "Getting Started Guide",
+      "href": "/docs/getting-started/implementation-guide/"
+    },
+    {
+      "text": "A Basic Segment Installation",
+      "href": "/docs/getting-started/02-simple-install/"
+    },
+    {
+      "text": "Planning a Full Installation",
+      "href": "/docs/getting-started/03-planning-full-install/"
+    },
+    {
+      "text": "A Full Segment Installation",
+      "href": "/docs/getting-started/04-full-install/"
+    },
+    {
+      "text": "Sending Data to Destinations",
+      "href": "/docs/getting-started/05-data-to-destinations/"
+    },
+    {
+      "text": "Testing and Debugging",
+      "href": "/docs/getting-started/06-testing-debugging/"
+    },
+    {
+      "text": "What's Next",
+      "href": "/docs/getting-started/whats-next/"
+    },
+    {
+      "text": "Use Cases Overview",
+      "href": "/docs/getting-started/use-cases//"
+    },
+    {
+      "text": "Choosing a Use Case",
+      "href": "/docs/getting-started/use-cases/guide//"
+    },
+    {
+      "text": "Use Cases Setup",
+      "href": "/docs/getting-started/use-cases/setup//"
+    },
+    {
+      "text": "Use Cases Reference",
+      "href": "/docs/getting-started/use-cases/reference//"
+    },
+    {
+      "text": "An Introduction to Segment",
+      "href": "/docs/guides/"
+    },
+    {
+      "text": "For Developers",
+      "href": "/docs/guides/intro-impl/"
+    },
+    {
+      "text": "For Data Users",
+      "href": "/docs/guides/intro-user/"
+    },
+    {
+      "text": "For Workspace Admins",
+      "href": "/docs/guides/intro-admin/"
+    },
+    {
+      "text": "Filtering your Segment Data",
+      "href": "/docs/guides/filtering-data/"
+    },
+    {
+      "text": "Handling Duplicate Data",
+      "href": "/docs/guides/duplicate-data/"
+    },
+    {
+      "text": "Internet Bots",
+      "href": "/docs/guides/ignore-bots/"
+    },
+    {
+      "text": "Segment vs. Tag Managers",
+      "href": "/docs/guides/segment-vs-tag-managers/"
+    },
+    {
+      "text": "Replay",
+      "href": "/docs/guides/what-is-replay/"
+    },
+    {
+      "text": "Regional Segment",
+      "href": "/docs/guides/regional-segment/"
+    },
+    {
+      "text": "Audiences and Journeys",
+      "href": "/docs/guides/audiences-and-journeys/"
+    },
+    {
+      "text": "How-to Guides Index",
+      "href": "/docs/guides/how-to-guides/"
+    },
+    {
+      "text": "Automating Multi-Channel Re-Engagement Campaigns",
+      "href": "/docs/guides/how-to-guides/automated-multichannel-reengagement/"
+    },
+    {
+      "text": "Collecting Data on the Client or Server",
+      "href": "/docs/guides/how-to-guides/collect-on-client-or-server/"
+    },
+    {
+      "text": "Collecting Pageviews on the Server Side",
+      "href": "/docs/guides/how-to-guides/collect-pageviews-serverside/"
+    },
+    {
+      "text": "Creating a Push Notification",
+      "href": "/docs/guides/how-to-guides/create-push-notification/"
+    },
+    {
+      "text": "Tracking Customers Across Channels and Devices",
+      "href": "/docs/guides/how-to-guides/cross-channel-tracking/"
+    },
+    {
+      "text": "Setting up a Dynamic Coupon Program to Reward Loyal Customers",
+      "href": "/docs/guides/how-to-guides/dynamic-coupon-program/"
+    },
+    {
+      "text": "Forecasting LTV with SQL and Excel for E-Commerce",
+      "href": "/docs/guides/how-to-guides/forecast-with-sql/"
+    },
+    {
+      "text": "Importing Historical Data",
+      "href": "/docs/guides/how-to-guides/import-historical-data/"
+    },
+    {
+      "text": "Joining User Profiles",
+      "href": "/docs/guides/how-to-guides/join-user-profiles/"
+    },
+    {
+      "text": "Measuring Your Advertising Funnel",
+      "href": "/docs/guides/how-to-guides/measure-advertising-funnel/"
+    },
+    {
+      "text": "Measuring the ROI of Your Marketing Campaigns",
+      "href": "/docs/guides/how-to-guides/measure-marketing-roi/"
+    },
+    {
+      "text": "Migrating Code From Other Analytics Tools",
+      "href": "/docs/guides/how-to-guides/migrate-from-other-tools/"
+    },
+    {
+      "text": "Segment's Role in Attribution",
+      "href": "/docs/guides/how-to-guides/segment-and-attribution/"
+    },
+    {
+      "text": "Setting Up Event-Triggered Notifications or Alerts",
+      "href": "/docs/guides/how-to-guides/set-up-notifications-alerts/"
+    },
+    {
+      "text": "Account Management",
+      "href": "/docs/guides/usage-and-billing/account-management/"
+    },
+    {
+      "text": "Billing and Account FAQs",
+      "href": "/docs/guides/usage-and-billing/billing/"
+    },
+    {
+      "text": "MTUs, Throughput and Billing",
+      "href": "/docs/guides/usage-and-billing/mtus-and-throughput/"
+    },
+    {
+      "text": "Discounts or Coupons",
+      "href": "/docs/guides/usage-and-billing/discounts-for-startups-npos/"
+    },
+    {
+      "text": "Segment Startup Program",
+      "href": "/docs/guides/usage-and-billing/startup-program/"
+    },
+    {
+      "text": "Overview",
+      "href": "/docs/connections/"
+    },
+    {
+      "text": "Spec Overview",
+      "href": "/docs/connections/spec/"
+    },
+    {
+      "text": "Spec: Page",
+      "href": "/docs/connections/spec/page/"
+    },
+    {
+      "text": "Spec: Screen",
+      "href": "/docs/connections/spec/screen/"
+    },
+    {
+      "text": "Spec: Track",
+      "href": "/docs/connections/spec/track/"
+    },
+    {
+      "text": "Spec: Group",
+      "href": "/docs/connections/spec/group/"
+    },
+    {
+      "text": "Spec: Identify",
+      "href": "/docs/connections/spec/identify/"
+    },
+    {
+      "text": "Spec: Alias",
+      "href": "/docs/connections/spec/alias/"
+    },
+    {
+      "text": "Spec: AI Copilot",
+      "href": "/docs/connections/spec/copilot/"
+    },
+    {
+      "text": "Spec: Common Fields",
+      "href": "/docs/connections/spec/common/"
+    },
+    {
+      "text": "Native Mobile Spec",
+      "href": "/docs/connections/spec/mobile/"
+    },
+    {
+      "text": "What is the native mobile spec?",
+      "href": "/docs/connections/spec/native-mobile-spec/"
+    },
+    {
+      "text": "Packaging SDKs for Mobile Destinations",
+      "href": "/docs/connections/spec/mobile-packaging-sdks/"
+    },
+    {
+      "text": "Spec: Semantic Events",
+      "href": "/docs/connections/spec/semantic/"
+    },
+    {
+      "text": "Spec: B2B SaaS",
+      "href": "/docs/connections/spec/b2b-saas/"
+    },
+    {
+      "text": "Spec: Ecommerce Events",
+      "href": "/docs/connections/spec/ecommerce/v2/"
+    },
+    {
+      "text": "Ecommerce Tracking Plans",
+      "href": "/docs/connections/spec/ecommerce-tracking-plan/"
+    },
+    {
+      "text": "Video Spec",
+      "href": "/docs/connections/spec/video/"
+    },
+    {
+      "text": "Best Practices for Identifying Users",
+      "href": "/docs/connections/spec/best-practices-identify/"
+    },
+    {
+      "text": "Best Practices for Event Calls",
+      "href": "/docs/connections/spec/best-practices-event/"
+    },
+    {
+      "text": "Sources Overview",
+      "href": "/docs/connections/sources/"
+    },
+    {
+      "text": "Sources Catalog",
+      "href": "/docs/connections/sources/catalog/"
+    },
+    {
+      "text": "Cloud Sources",
+      "href": "/docs/connections/sources/about-cloud-sources/"
+    },
+    {
+      "text": "Source Debugger",
+      "href": "/docs/connections/sources/debugger/"
+    },
+    {
+      "text": "Segment-Managed Custom Domain",
+      "href": "/docs/connections/sources/custom-domain/"
+    },
+    {
+      "text": "Self-Managed Custom Proxy",
+      "href": "/docs/connections/sources/catalog/libraries/website/javascript/custom-proxy/"
+    },
+    {
+      "text": "Visual Tagger",
+      "href": "/docs/connections/sources/visual-tagger/"
+    },
+    {
+      "text": "Schema Controls",
+      "href": "/docs/connections/sources/schema//"
+    },
+    {
+      "text": "Using Schema Controls",
+      "href": "/docs/connections/sources/schema/destination-data-control/"
+    },
+    {
+      "text": "Schema Unique Limits",
+      "href": "/docs/connections/sources/schema/schema-unique-limits/"
+    },
+    {
+      "text": "Destinations Overview",
+      "href": "/docs/connections/destinations/"
+    },
+    {
+      "text": "Destination Actions",
+      "href": "/docs/connections/destinations/actions/"
+    },
+    {
+      "text": "Add a Destination",
+      "href": "/docs/connections/destinations/add-destination/"
+    },
+    {
+      "text": "Destinations Catalog",
+      "href": "/docs/connections/destinations/catalog/"
+    },
+    {
+      "text": "Destination Filters",
+      "href": "/docs/connections/destinations/destination-filters/"
+    },
+    {
+      "text": "Reverse ETL Overview",
+      "href": "/docs/connections/reverse-etl/"
+    },
+    {
+      "text": "Set Up Reverse ETL",
+      "href": "/docs/connections/reverse-etl/setup/"
+    },
+    {
+      "text": "Manage Reverse ETL Syncs",
+      "href": "/docs/connections/reverse-etl/manage-retl/"
+    },
+    {
+      "text": "Reverse ETL System",
+      "href": "/docs/connections/reverse-etl/system/"
+    },
+    {
+      "text": "Reverse ETL Destination Catalog",
+      "href": "/docs/connections/reverse-etl/reverse-etl-catalog/"
+    },
+    {
+      "text": "Azure Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/azure-setup/"
+    },
+    {
+      "text": "BigQuery Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/bigquery-setup/"
+    },
+    {
+      "text": "Databricks Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/databricks-setup/"
+    },
+    {
+      "text": "Postgres Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/postgres-setup/"
+    },
+    {
+      "text": "Redshift Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/redshift-setup/"
+    },
+    {
+      "text": "Snowflake Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/snowflake-setup/"
+    },
+    {
+      "text": "Functions Overview",
+      "href": "/docs/connections/functions/"
+    },
+    {
+      "text": "Source Functions",
+      "href": "/docs/connections/functions/source-functions/"
+    },
+    {
+      "text": "Destination Functions",
+      "href": "/docs/connections/functions/destination-functions/"
+    },
+    {
+      "text": "Destination Insert Functions",
+      "href": "/docs/connections/functions/insert-functions/"
+    },
+    {
+      "text": "Functions Copilot",
+      "href": "/docs/connections/functions/copilot/"
+    },
+    {
+      "text": "Functions Copilot Nutrition Facts Label",
+      "href": "/docs/connections/functions/functions-copilot-nutrition-facts/"
+    },
+    {
+      "text": "Functions Environment",
+      "href": "/docs/connections/functions/environment/"
+    },
+    {
+      "text": "Functions Usage Limits",
+      "href": "/docs/connections/functions/usage/"
+    },
+    {
+      "text": "Functions for AWS APIs",
+      "href": "/docs/connections/functions/aws-apis/"
+    },
+    {
+      "text": "Storage Destinations Overview",
+      "href": "/docs/connections/storage/"
+    },
+    {
+      "text": "Storage Destinations Catalog",
+      "href": "/docs/connections/storage/catalog/"
+    },
+    {
+      "text": "Data Lakes Overview",
+      "href": "/docs/connections/storage/data-lakes/"
+    },
+    {
+      "text": "Set Up Data Lakes",
+      "href": "/docs/connections/storage/catalog/data-lakes/"
+    },
+    {
+      "text": "Sync Reports and Error Reporting",
+      "href": "/docs/connections/storage/data-lakes/sync-reports/"
+    },
+    {
+      "text": "AWS Lake Formation",
+      "href": "/docs/connections/storage/data-lakes/lake-formation/"
+    },
+    {
+      "text": "Data Lakes Sync History and Health",
+      "href": "/docs/connections/storage/data-lakes/sync-history/"
+    },
+    {
+      "text": "Data Lakes vs. Warehouses",
+      "href": "/docs/connections/storage/data-lakes/comparison/"
+    },
+    {
+      "text": "Warehouse Overview",
+      "href": "/docs/connections/storage/warehouses/"
+    },
+    {
+      "text": "Warehouse Schemas",
+      "href": "/docs/connections/storage/warehouses/schema/"
+    },
+    {
+      "text": "Warehouse Syncs",
+      "href": "/docs/connections/storage/warehouses/warehouse-syncs/"
+    },
+    {
+      "text": "Warehouse Health Dashboards",
+      "href": "/docs/connections/storage/warehouses/health/"
+    },
+    {
+      "text": "Choosing a Warehouse",
+      "href": "/docs/connections/storage/warehouses/choose-warehouse/"
+    },
+    {
+      "text": "Warehouse FAQs",
+      "href": "/docs/connections/storage/warehouses/faq/"
+    },
+    {
+      "text": "Adding Warehouse Users",
+      "href": "/docs/connections/storage/warehouses/add-warehouse-users/"
+    },
+    {
+      "text": "Warehouse Errors",
+      "href": "/docs/connections/storage/warehouses/warehouse-errors/"
+    },
+    {
+      "text": "Redshift Cluster and Redshift Connector Limitations",
+      "href": "/docs/connections/storage/warehouses/redshift-faq/"
+    },
+    {
+      "text": "Speeding Up Redshift Queries",
+      "href": "/docs/connections/storage/warehouses/redshift-tuning/"
+    },
+    {
+      "text": "Useful SQL Queries for Redshift",
+      "href": "/docs/connections/storage/warehouses/redshift-useful-sql/"
+    },
+    {
+      "text": "Regional Segment",
+      "href": "/docs/connections/regional-segment/"
+    },
+    {
+      "text": "Event Tester",
+      "href": "/docs/connections/test-connections/"
+    },
+    {
+      "text": "Data Export Options",
+      "href": "/docs/connections/data-export-options/"
+    },
+    {
+      "text": "Using Schema Controls",
+      "href": "/docs/connections/destination-data-control/"
+    },
+    {
+      "text": "Event Delivery",
+      "href": "/docs/connections/event-delivery/"
+    },
+    {
+      "text": "Delivery Overview",
+      "href": "/docs/connections/delivery-overview/"
+    },
+    {
+      "text": "Connections Alerting",
+      "href": "/docs/connections/alerting/"
+    },
+    {
+      "text": "Locate Your Write Key",
+      "href": "/docs/connections/find-writekey/"
+    },
+    {
+      "text": "Integration Error Codes",
+      "href": "/docs/connections/integration_error_codes/"
+    },
+    {
+      "text": "Rate Limits",
+      "href": "/docs/connections/rate-limits/"
+    },
+    {
+      "text": "OAuth 2.0",
+      "href": "/docs/connections/oauth/"
+    },
+    {
+      "text": "AWS PrivateLink Integration",
+      "href": "/docs/connections/aws-privatelink/"
+    },
+    {
+      "text": "Unify Overview",
+      "href": "/docs/unify/"
+    },
+    {
+      "text": "Unify Onboarding",
+      "href": "/docs/unify/quickstart/"
+    },
+    {
+      "text": "Overview",
+      "href": "/docs/unify/identity-resolution/"
+    },
+    {
+      "text": "Onboarding",
+      "href": "/docs/unify/identity-resolution/identity-resolution-onboarding/"
+    },
+    {
+      "text": "Space Setup",
+      "href": "/docs/unify/identity-resolution/space-setup/"
+    },
+    {
+      "text": "Use Cases",
+      "href": "/docs/unify/identity-resolution/use-cases/"
+    },
+    {
+      "text": "External IDs",
+      "href": "/docs/unify/identity-resolution/externalids/"
+    },
+    {
+      "text": "Settings",
+      "href": "/docs/unify/identity-resolution/identity-resolution-settings/"
+    },
+    {
+      "text": "E-Commerce Example",
+      "href": "/docs/unify/identity-resolution/ecommerce-example/"
+    },
+    {
+      "text": "Profiles Sync Overview",
+      "href": "/docs/unify/profiles-sync/overview/"
+    },
+    {
+      "text": "Setup",
+      "href": "/docs/unify/profiles-sync/profiles-sync-setup/"
+    },
+    {
+      "text": "Databricks for Profiles Sync",
+      "href": "/docs/unify/profiles-sync/profiles-sync-setup/databricks-profiles-sync/"
+    },
+    {
+      "text": "Sample Queries",
+      "href": "/docs/unify/profiles-sync/sample-queries/"
+    },
+    {
+      "text": "Tables & Materialized Views",
+      "href": "/docs/unify/profiles-sync/tables/"
+    },
+    {
+      "text": "Data Graph",
+      "href": "/docs/unify/data-graph//"
+    },
+    {
+      "text": "BigQuery Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/bigquery-setup//"
+    },
+    {
+      "text": "Databricks Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/databricks-setup//"
+    },
+    {
+      "text": "Redshift Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/redshift-setup//"
+    },
+    {
+      "text": "Snowflake Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/snowflake-setup//"
+    },
+    {
+      "text": "Linked Events Overview",
+      "href": "/docs/unify/data-graph/linked-events//"
+    },
+    {
+      "text": "Linked Events Limits",
+      "href": "/docs/unify/data-graph/linked-events-limits//"
+    },
+    {
+      "text": "Predictions",
+      "href": "/docs/unify/traits/predictions//"
+    },
+    {
+      "text": "Using Predictions",
+      "href": "/docs/unify/traits/predictions/using-predictions/"
+    },
+    {
+      "text": "Suggested Predictive Audiences",
+      "href": "/docs/unify/traits/predictions/suggested-predictive-audiences/"
+    },
+    {
+      "text": "Predictions Nutrition Facts Label",
+      "href": "/docs/unify/traits/predictions/predictions-nutrition-facts/"
+    },
+    {
+      "text": "Computed Traits",
+      "href": "/docs/unify/traits/computed-traits/"
+    },
+    {
+      "text": "Custom Traits",
+      "href": "/docs/unify/traits/custom-traits/"
+    },
+    {
+      "text": "SQL Traits",
+      "href": "/docs/unify/traits/sql-traits/"
+    },
+    {
+      "text": "Recommended Items",
+      "href": "/docs/unify/traits/recommended-items/"
+    },
+    {
+      "text": "Profile API",
+      "href": "/docs/unify/profile-api/"
+    },
+    {
+      "text": "Profile Debugger",
+      "href": "/docs/unify/debugger/"
+    },
+    {
+      "text": "Profiles Insights",
+      "href": "/docs/unify/insights/"
+    },
+    {
+      "text": "CSV Upload",
+      "href": "/docs/unify/csv-upload/"
+    },
+    {
+      "text": "Unify and GDPR",
+      "href": "/docs/unify/unify-gdpr/"
+    },
+    {
+      "text": "Unify FAQs",
+      "href": "/docs/unify/faqs/"
+    },
+    {
+      "text": "Unify Limits",
+      "href": "/docs/unify/product-limits/"
+    },
+    {
+      "text": "Introduction",
+      "href": "/docs/engage/"
+    },
+    {
+      "text": "Foundations Onboarding",
+      "href": "/docs/engage/quickstart/"
+    },
+    {
+      "text": "Premier Onboarding",
+      "href": "/docs/engage/onboarding/"
+    },
+    {
+      "text": "Use Cases",
+      "href": "/docs/engage/use-cases/"
+    },
+    {
+      "text": "User Subscriptions",
+      "href": "/docs/engage/user-subscriptions/"
+    },
+    {
+      "text": "Set User Subscriptions",
+      "href": "/docs/engage/user-subscriptions/set-user-subscriptions/"
+    },
+    {
+      "text": "Subscription States",
+      "href": "/docs/engage/user-subscriptions/subscription-states/"
+    },
+    {
+      "text": "Subscription Groups",
+      "href": "/docs/engage/user-subscriptions/subscription-groups/"
+    },
+    {
+      "text": "Subscriptions with SQL Traits",
+      "href": "/docs/engage/user-subscriptions/subscription-sql/"
+    },
+    {
+      "text": "Update Subscriptions with a CSV",
+      "href": "/docs/engage/user-subscriptions/csv-upload/"
+    },
+    {
+      "text": "Use Profiles and Traits with a CSV",
+      "href": "/docs/engage/profiles/csv-upload/"
+    },
+    {
+      "text": "Audiences Overview",
+      "href": "/docs/engage/audiences/"
+    },
+    {
+      "text": "Linked Audiences Overview",
+      "href": "/docs/engage/audiences/linked-audiences/"
+    },
+    {
+      "text": "Linked Audiences Limits",
+      "href": "/docs/engage/audiences/linked-audiences-limits/"
+    },
+    {
+      "text": "Account-level Audiences",
+      "href": "/docs/engage/audiences/account-audiences/"
+    },
+    {
+      "text": "Generative Audiences",
+      "href": "/docs/engage/audiences/generative-audiences/"
+    },
+    {
+      "text": "Generative Audiences Nutrition Facts Label",
+      "href": "/docs/engage/audiences/generative-audiences-nutrition-facts/"
+    },
+    {
+      "text": "Product Based Audiences",
+      "href": "/docs/engage/audiences/product-based-audiences/"
+    },
+    {
+      "text": "Product Based Audiences Nutrition Facts Label",
+      "href": "/docs/engage/audiences/product-based-audiences-nutrition-label/"
+    },
+    {
+      "text": "Organize Audiences",
+      "href": "/docs/engage/audiences/organization/"
+    },
+    {
+      "text": "Send Audiences to Destinations",
+      "href": "/docs/engage/audiences/send-audience-data/"
+    },
+    {
+      "text": "Journeys Overview",
+      "href": "/docs/engage/journeys/"
+    },
+    {
+      "text": "Build a Journey",
+      "href": "/docs/engage/journeys/build-journey/"
+    },
+    {
+      "text": "Journey Step Types",
+      "href": "/docs/engage/journeys/step-types/"
+    },
+    {
+      "text": "Journey Edits and Versioning",
+      "href": "/docs/engage/journeys/journeys-edits/"
+    },
+    {
+      "text": "Send Data to Destinations",
+      "href": "/docs/engage/journeys/send-data/"
+    },
+    {
+      "text": "Journeys Analytics",
+      "href": "/docs/engage/journeys/journeys-analytics/"
+    },
+    {
+      "text": "Event-Triggered Journeys Overview",
+      "href": "/docs/engage/journeys/event-triggered-journeys/"
+    },
+    {
+      "text": "Journey Context",
+      "href": "/docs/engage/journeys/journey-context/"
+    },
+    {
+      "text": "Journeys Best Practices and FAQ",
+      "href": "/docs/engage/journeys/faq-best-practices/"
+    },
+    {
+      "text": "Example Journeys Use Cases",
+      "href": "/docs/engage/journeys/use-cases/"
+    },
+    {
+      "text": "Understand Journeys Logic",
+      "href": "/docs/engage/journeys/journeys-logic/"
+    },
+    {
+      "text": "Journeys Glossary",
+      "href": "/docs/engage/journeys/key-terms/"
+    },
+    {
+      "text": "Email Template",
+      "href": "/docs/engage/content/email/template/"
+    },
+    {
+      "text": "Drag and Drop Editor",
+      "href": "/docs/engage/content/email/editor/"
+    },
+    {
+      "text": "HTML Editor",
+      "href": "/docs/engage/content/email/html-editor/"
+    },
+    {
+      "text": "SMS Template",
+      "href": "/docs/engage/content/sms/template/"
+    },
+    {
+      "text": "WhatsApp Template",
+      "href": "/docs/engage/content/whatsapp/"
+    },
+    {
+      "text": "Mobile Push Template",
+      "href": "/docs/engage/content/mobile-push/"
+    },
+    {
+      "text": "Organizing Your Templates",
+      "href": "/docs/engage/content/organization/"
+    },
+    {
+      "text": "Campaigns Overview",
+      "href": "/docs/engage/campaigns/"
+    },
+    {
+      "text": "Email Campaigns",
+      "href": "/docs/engage/campaigns/email-campaigns/"
+    },
+    {
+      "text": "SMS Campaigns",
+      "href": "/docs/engage/campaigns/sms-campaigns/"
+    },
+    {
+      "text": "Broadcasts",
+      "href": "/docs/engage/campaigns/broadcasts/"
+    },
+    {
+      "text": "WhatsApp Campaigns",
+      "href": "/docs/engage/campaigns/whatsapp-campaigns/"
+    },
+    {
+      "text": "Mobile Push Onboarding",
+      "href": "/docs/engage/campaigns/mobile-push/"
+    },
+    {
+      "text": "Mobile Push Campaigns",
+      "href": "/docs/engage/campaigns/mobile-push/push-campaigns/"
+    },
+    {
+      "text": "Trait Activation Overview",
+      "href": "/docs/engage/trait-activation/"
+    },
+    {
+      "text": "Trait Enrichment",
+      "href": "/docs/engage/trait-activation/trait-enrichment/"
+    },
+    {
+      "text": "ID Sync",
+      "href": "/docs/engage/trait-activation/id-sync/"
+    },
+    {
+      "text": "Analytics Overview",
+      "href": "/docs/engage/analytics/"
+    },
+    {
+      "text": "Engage Settings",
+      "href": "/docs/engage/settings/"
+    },
+    {
+      "text": "Engage Default Limits",
+      "href": "/docs/engage/product-limits/"
+    },
+    {
+      "text": "Engage and Warehouses",
+      "href": "/docs/engage/warehouses/"
+    },
+    {
+      "text": "Using Engage Data",
+      "href": "/docs/engage/using-engage-data/"
+    },
+    {
+      "text": "Engage FAQs",
+      "href": "/docs/engage/faqs/"
+    },
+    {
+      "text": "Privacy Overview",
+      "href": "/docs/privacy/"
+    },
+    {
+      "text": "Detect PII",
+      "href": "/docs/privacy/portal/"
+    },
+    {
+      "text": "Data Controls and Alerts",
+      "href": "/docs/privacy/data-controls/"
+    },
+    {
+      "text": "Complying With GDPR",
+      "href": "/docs/privacy/complying-with-the-gdpr/"
+    },
+    {
+      "text": "User Deletion and Suppression",
+      "href": "/docs/privacy/user-deletion-and-suppression/"
+    },
+    {
+      "text": "Consent Management Overview",
+      "href": "/docs/privacy/consent-management/"
+    },
+    {
+      "text": "Consent in Segment Connections",
+      "href": "/docs/privacy/consent-management/consent-in-segment-connections/"
+    },
+    {
+      "text": "Configure Consent Management",
+      "href": "/docs/privacy/consent-management/configure-consent-management/"
+    },
+    {
+      "text": "Consent in Unify",
+      "href": "/docs/privacy/consent-management/consent-in-unify/"
+    },
+    {
+      "text": "Consent in Reverse ETL",
+      "href": "/docs/privacy/consent-management/consent-in-retl/"
+    },
+    {
+      "text": "Consent FAQs",
+      "href": "/docs/privacy/consent-management/consent-faq/"
+    },
+    {
+      "text": "Account & Data Deletion",
+      "href": "/docs/privacy/account-deletion/"
+    },
+    {
+      "text": "HIPAA Eligible Segment",
+      "href": "/docs/privacy/hipaa-eligible-segment/"
+    },
+    {
+      "text": "Privacy FAQs",
+      "href": "/docs/privacy/faq/"
+    },
+    {
+      "text": "Protocols Overview",
+      "href": "/docs/protocols/"
+    },
+    {
+      "text": "Data Collection Best Practices",
+      "href": "/docs/protocols/tracking-plan/best-practices/"
+    },
+    {
+      "text": "The Tracking Plan",
+      "href": "/docs/protocols/tracking-plan/create/"
+    },
+    {
+      "text": "Tracking Plan Libraries",
+      "href": "/docs/protocols/tracking-plan/libraries/"
+    },
+    {
+      "text": "Connect Sources to Your Tracking Plan",
+      "href": "/docs/protocols/validate/connect-sources/"
+    },
+    {
+      "text": "Review and Resolve Event Violations",
+      "href": "/docs/protocols/validate/review-violations/"
+    },
+    {
+      "text": "Forward Violations",
+      "href": "/docs/protocols/validate/forward-violations/"
+    },
+    {
+      "text": "Customize Your Schema Controls",
+      "href": "/docs/protocols/enforce/schema-configuration/"
+    },
+    {
+      "text": "Forward Blocked Events",
+      "href": "/docs/protocols/enforce/forward-blocked-events/"
+    },
+    {
+      "text": "Transform to Fix Bad Data",
+      "href": "/docs/protocols/transform/"
+    },
+    {
+      "text": "Protocols APIs",
+      "href": "/docs/protocols/apis-and-extensions/"
+    },
+    {
+      "text": "Typewriter",
+      "href": "/docs/protocols/apis-and-extensions/typewriter/"
+    },
+    {
+      "text": "Anomaly Detection",
+      "href": "/docs/protocols/apis-and-extensions/anomaly_detection/"
+    },
+    {
+      "text": "Schema Controls",
+      "href": "/docs/protocols/schema/"
+    },
+    {
+      "text": "Protocols FAQs",
+      "href": "/docs/protocols/faq/"
+    },
+    {
+      "text": "Segment Web App",
+      "href": "/docs/segment-app/"
+    },
+    {
+      "text": "Workspace Home",
+      "href": "/docs/segment-app/workspace-home/"
+    },
+    {
+      "text": "Identity & Access Management Overview",
+      "href": "/docs/segment-app/iam/"
+    },
+    {
+      "text": "Concepts",
+      "href": "/docs/segment-app/iam/concepts/"
+    },
+    {
+      "text": "Roles",
+      "href": "/docs/segment-app/iam/roles/"
+    },
+    {
+      "text": "Manage Workspace Access",
+      "href": "/docs/segment-app/iam/membership/"
+    },
+    {
+      "text": "Label-Based Access Control",
+      "href": "/docs/segment-app/iam/labels/"
+    },
+    {
+      "text": "Audit Trail",
+      "href": "/docs/segment-app/iam/audit-trail/"
+    },
+    {
+      "text": "Single Sign On",
+      "href": "/docs/segment-app/iam/sso/"
+    },
+    {
+      "text": "System for Cross-domain Identity Management (SCIM) Configuration Guide",
+      "href": "/docs/segment-app/iam/scim/"
+    },
+    {
+      "text": "Multi-Factor Authentication (MFA)",
+      "href": "/docs/segment-app/iam/mfa/"
+    },
+    {
+      "text": "Extensions Overview",
+      "href": "/docs/segment-app/extensions/"
+    },
+    {
+      "text": "dbt",
+      "href": "/docs/segment-app/extensions/dbt/"
+    },
+    {
+      "text": "Git",
+      "href": "/docs/segment-app/extensions/git/"
+    },
+    {
+      "text": "Picking a Secure Password",
+      "href": "/docs/segment-app/iam/secure-password/"
+    },
+    {
+      "text": "Prod and Testing Environments in Segment",
+      "href": "/docs/segment-app/set-up-envs/"
+    },
+    {
+      "text": "Verifying Your Email Address",
+      "href": "/docs/segment-app/verify-email-address/"
+    },
+    {
+      "text": "Support Access",
+      "href": "/docs/segment-app/support-access/"
+    },
+    {
+      "text": "Public API",
+      "href": "/docs/api/public-api/"
+    },
+    {
+      "text": "Destination Filter Query Language",
+      "href": "/docs/api/public-api/fql/"
+    },
+    {
+      "text": "Segment Query Language",
+      "href": "/docs/api/public-api/query-language/"
+    },
+    {
+      "text": "Config API overview",
+      "href": "/docs/api/config-api/"
+    },
+    {
+      "text": "API design",
+      "href": "/docs/api/config-api/api-design/"
+    },
+    {
+      "text": "Authentication",
+      "href": "/docs/api/config-api/authentication/"
+    },
+    {
+      "text": "Destination Filter Query Language",
+      "href": "/docs/api/config-api/fql/"
+    },
+    {
+      "text": "Partners",
+      "href": "/docs/partners/"
+    },
+    {
+      "text": "Glossary",
+      "href": "/docs/glossary/"
+    },
+    {
+      "text": "Help",
+      "href": "/docs/help/"
+    },
+    {
+      "text": "Product Updates",
+      "href": "https://community.segment.com/product-updates"
+    },
+    {
+      "text": "Back to Segment.com",
+      "href": "https://segment.com/"
+    },
+    {
+      "text": "Log in",
+      "href": "https://app.segment.com/login"
+    },
+    {
+      "text": "Sign Up",
+      "href": "https://app.segment.com/signup"
+    },
+    {
+      "text": "",
+      "href": "/docs/"
+    },
+    {
+      "text": "Home",
+      "href": "/docs/"
+    },
+    {
+      "text": "What is Segment?",
+      "href": "/docs/getting-started/"
+    },
+    {
+      "text": "How Segment Works",
+      "href": "/docs/getting-started/01-what-is-segment/"
+    },
+    {
+      "text": "Getting Started Guide",
+      "href": "/docs/getting-started/implementation-guide/"
+    },
+    {
+      "text": "A Basic Segment Installation",
+      "href": "/docs/getting-started/02-simple-install/"
+    },
+    {
+      "text": "Planning a Full Installation",
+      "href": "/docs/getting-started/03-planning-full-install/"
+    },
+    {
+      "text": "A Full Segment Installation",
+      "href": "/docs/getting-started/04-full-install/"
+    },
+    {
+      "text": "Sending Data to Destinations",
+      "href": "/docs/getting-started/05-data-to-destinations/"
+    },
+    {
+      "text": "Testing and Debugging",
+      "href": "/docs/getting-started/06-testing-debugging/"
+    },
+    {
+      "text": "What's Next",
+      "href": "/docs/getting-started/whats-next/"
+    },
+    {
+      "text": "Use Cases Overview",
+      "href": "/docs/getting-started/use-cases//"
+    },
+    {
+      "text": "Choosing a Use Case",
+      "href": "/docs/getting-started/use-cases/guide//"
+    },
+    {
+      "text": "Use Cases Setup",
+      "href": "/docs/getting-started/use-cases/setup//"
+    },
+    {
+      "text": "Use Cases Reference",
+      "href": "/docs/getting-started/use-cases/reference//"
+    },
+    {
+      "text": "An Introduction to Segment",
+      "href": "/docs/guides/"
+    },
+    {
+      "text": "For Developers",
+      "href": "/docs/guides/intro-impl/"
+    },
+    {
+      "text": "For Data Users",
+      "href": "/docs/guides/intro-user/"
+    },
+    {
+      "text": "For Workspace Admins",
+      "href": "/docs/guides/intro-admin/"
+    },
+    {
+      "text": "Filtering your Segment Data",
+      "href": "/docs/guides/filtering-data/"
+    },
+    {
+      "text": "Handling Duplicate Data",
+      "href": "/docs/guides/duplicate-data/"
+    },
+    {
+      "text": "Internet Bots",
+      "href": "/docs/guides/ignore-bots/"
+    },
+    {
+      "text": "Segment vs. Tag Managers",
+      "href": "/docs/guides/segment-vs-tag-managers/"
+    },
+    {
+      "text": "Replay",
+      "href": "/docs/guides/what-is-replay/"
+    },
+    {
+      "text": "Regional Segment",
+      "href": "/docs/guides/regional-segment/"
+    },
+    {
+      "text": "Audiences and Journeys",
+      "href": "/docs/guides/audiences-and-journeys/"
+    },
+    {
+      "text": "How-to Guides Index",
+      "href": "/docs/guides/how-to-guides/"
+    },
+    {
+      "text": "Automating Multi-Channel Re-Engagement Campaigns",
+      "href": "/docs/guides/how-to-guides/automated-multichannel-reengagement/"
+    },
+    {
+      "text": "Collecting Data on the Client or Server",
+      "href": "/docs/guides/how-to-guides/collect-on-client-or-server/"
+    },
+    {
+      "text": "Collecting Pageviews on the Server Side",
+      "href": "/docs/guides/how-to-guides/collect-pageviews-serverside/"
+    },
+    {
+      "text": "Creating a Push Notification",
+      "href": "/docs/guides/how-to-guides/create-push-notification/"
+    },
+    {
+      "text": "Tracking Customers Across Channels and Devices",
+      "href": "/docs/guides/how-to-guides/cross-channel-tracking/"
+    },
+    {
+      "text": "Setting up a Dynamic Coupon Program to Reward Loyal Customers",
+      "href": "/docs/guides/how-to-guides/dynamic-coupon-program/"
+    },
+    {
+      "text": "Forecasting LTV with SQL and Excel for E-Commerce",
+      "href": "/docs/guides/how-to-guides/forecast-with-sql/"
+    },
+    {
+      "text": "Importing Historical Data",
+      "href": "/docs/guides/how-to-guides/import-historical-data/"
+    },
+    {
+      "text": "Joining User Profiles",
+      "href": "/docs/guides/how-to-guides/join-user-profiles/"
+    },
+    {
+      "text": "Measuring Your Advertising Funnel",
+      "href": "/docs/guides/how-to-guides/measure-advertising-funnel/"
+    },
+    {
+      "text": "Measuring the ROI of Your Marketing Campaigns",
+      "href": "/docs/guides/how-to-guides/measure-marketing-roi/"
+    },
+    {
+      "text": "Migrating Code From Other Analytics Tools",
+      "href": "/docs/guides/how-to-guides/migrate-from-other-tools/"
+    },
+    {
+      "text": "Segment's Role in Attribution",
+      "href": "/docs/guides/how-to-guides/segment-and-attribution/"
+    },
+    {
+      "text": "Setting Up Event-Triggered Notifications or Alerts",
+      "href": "/docs/guides/how-to-guides/set-up-notifications-alerts/"
+    },
+    {
+      "text": "Account Management",
+      "href": "/docs/guides/usage-and-billing/account-management/"
+    },
+    {
+      "text": "Billing and Account FAQs",
+      "href": "/docs/guides/usage-and-billing/billing/"
+    },
+    {
+      "text": "MTUs, Throughput and Billing",
+      "href": "/docs/guides/usage-and-billing/mtus-and-throughput/"
+    },
+    {
+      "text": "Discounts or Coupons",
+      "href": "/docs/guides/usage-and-billing/discounts-for-startups-npos/"
+    },
+    {
+      "text": "Segment Startup Program",
+      "href": "/docs/guides/usage-and-billing/startup-program/"
+    },
+    {
+      "text": "Overview",
+      "href": "/docs/connections/"
+    },
+    {
+      "text": "Spec Overview",
+      "href": "/docs/connections/spec/"
+    },
+    {
+      "text": "Spec: Page",
+      "href": "/docs/connections/spec/page/"
+    },
+    {
+      "text": "Spec: Screen",
+      "href": "/docs/connections/spec/screen/"
+    },
+    {
+      "text": "Spec: Track",
+      "href": "/docs/connections/spec/track/"
+    },
+    {
+      "text": "Spec: Group",
+      "href": "/docs/connections/spec/group/"
+    },
+    {
+      "text": "Spec: Identify",
+      "href": "/docs/connections/spec/identify/"
+    },
+    {
+      "text": "Spec: Alias",
+      "href": "/docs/connections/spec/alias/"
+    },
+    {
+      "text": "Spec: AI Copilot",
+      "href": "/docs/connections/spec/copilot/"
+    },
+    {
+      "text": "Spec: Common Fields",
+      "href": "/docs/connections/spec/common/"
+    },
+    {
+      "text": "Native Mobile Spec",
+      "href": "/docs/connections/spec/mobile/"
+    },
+    {
+      "text": "What is the native mobile spec?",
+      "href": "/docs/connections/spec/native-mobile-spec/"
+    },
+    {
+      "text": "Packaging SDKs for Mobile Destinations",
+      "href": "/docs/connections/spec/mobile-packaging-sdks/"
+    },
+    {
+      "text": "Spec: Semantic Events",
+      "href": "/docs/connections/spec/semantic/"
+    },
+    {
+      "text": "Spec: B2B SaaS",
+      "href": "/docs/connections/spec/b2b-saas/"
+    },
+    {
+      "text": "Spec: Ecommerce Events",
+      "href": "/docs/connections/spec/ecommerce/v2/"
+    },
+    {
+      "text": "Ecommerce Tracking Plans",
+      "href": "/docs/connections/spec/ecommerce-tracking-plan/"
+    },
+    {
+      "text": "Video Spec",
+      "href": "/docs/connections/spec/video/"
+    },
+    {
+      "text": "Best Practices for Identifying Users",
+      "href": "/docs/connections/spec/best-practices-identify/"
+    },
+    {
+      "text": "Best Practices for Event Calls",
+      "href": "/docs/connections/spec/best-practices-event/"
+    },
+    {
+      "text": "Sources Overview",
+      "href": "/docs/connections/sources/"
+    },
+    {
+      "text": "Sources Catalog",
+      "href": "/docs/connections/sources/catalog/"
+    },
+    {
+      "text": "Cloud Sources",
+      "href": "/docs/connections/sources/about-cloud-sources/"
+    },
+    {
+      "text": "Source Debugger",
+      "href": "/docs/connections/sources/debugger/"
+    },
+    {
+      "text": "Segment-Managed Custom Domain",
+      "href": "/docs/connections/sources/custom-domain/"
+    },
+    {
+      "text": "Self-Managed Custom Proxy",
+      "href": "/docs/connections/sources/catalog/libraries/website/javascript/custom-proxy/"
+    },
+    {
+      "text": "Visual Tagger",
+      "href": "/docs/connections/sources/visual-tagger/"
+    },
+    {
+      "text": "Schema Controls",
+      "href": "/docs/connections/sources/schema//"
+    },
+    {
+      "text": "Using Schema Controls",
+      "href": "/docs/connections/sources/schema/destination-data-control/"
+    },
+    {
+      "text": "Schema Unique Limits",
+      "href": "/docs/connections/sources/schema/schema-unique-limits/"
+    },
+    {
+      "text": "Destinations Overview",
+      "href": "/docs/connections/destinations/"
+    },
+    {
+      "text": "Destination Actions",
+      "href": "/docs/connections/destinations/actions/"
+    },
+    {
+      "text": "Add a Destination",
+      "href": "/docs/connections/destinations/add-destination/"
+    },
+    {
+      "text": "Destinations Catalog",
+      "href": "/docs/connections/destinations/catalog/"
+    },
+    {
+      "text": "Destination Filters",
+      "href": "/docs/connections/destinations/destination-filters/"
+    },
+    {
+      "text": "Reverse ETL Overview",
+      "href": "/docs/connections/reverse-etl/"
+    },
+    {
+      "text": "Set Up Reverse ETL",
+      "href": "/docs/connections/reverse-etl/setup/"
+    },
+    {
+      "text": "Manage Reverse ETL Syncs",
+      "href": "/docs/connections/reverse-etl/manage-retl/"
+    },
+    {
+      "text": "Reverse ETL System",
+      "href": "/docs/connections/reverse-etl/system/"
+    },
+    {
+      "text": "Reverse ETL Destination Catalog",
+      "href": "/docs/connections/reverse-etl/reverse-etl-catalog/"
+    },
+    {
+      "text": "Azure Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/azure-setup/"
+    },
+    {
+      "text": "BigQuery Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/bigquery-setup/"
+    },
+    {
+      "text": "Databricks Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/databricks-setup/"
+    },
+    {
+      "text": "Postgres Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/postgres-setup/"
+    },
+    {
+      "text": "Redshift Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/redshift-setup/"
+    },
+    {
+      "text": "Snowflake Reverse ETL Setup",
+      "href": "/docs/connections/reverse-etl/reverse-etl-source-setup-guides/snowflake-setup/"
+    },
+    {
+      "text": "Functions Overview",
+      "href": "/docs/connections/functions/"
+    },
+    {
+      "text": "Source Functions",
+      "href": "/docs/connections/functions/source-functions/"
+    },
+    {
+      "text": "Destination Functions",
+      "href": "/docs/connections/functions/destination-functions/"
+    },
+    {
+      "text": "Destination Insert Functions",
+      "href": "/docs/connections/functions/insert-functions/"
+    },
+    {
+      "text": "Functions Copilot",
+      "href": "/docs/connections/functions/copilot/"
+    },
+    {
+      "text": "Functions Copilot Nutrition Facts Label",
+      "href": "/docs/connections/functions/functions-copilot-nutrition-facts/"
+    },
+    {
+      "text": "Functions Environment",
+      "href": "/docs/connections/functions/environment/"
+    },
+    {
+      "text": "Functions Usage Limits",
+      "href": "/docs/connections/functions/usage/"
+    },
+    {
+      "text": "Functions for AWS APIs",
+      "href": "/docs/connections/functions/aws-apis/"
+    },
+    {
+      "text": "Storage Destinations Overview",
+      "href": "/docs/connections/storage/"
+    },
+    {
+      "text": "Storage Destinations Catalog",
+      "href": "/docs/connections/storage/catalog/"
+    },
+    {
+      "text": "Data Lakes Overview",
+      "href": "/docs/connections/storage/data-lakes/"
+    },
+    {
+      "text": "Set Up Data Lakes",
+      "href": "/docs/connections/storage/catalog/data-lakes/"
+    },
+    {
+      "text": "Sync Reports and Error Reporting",
+      "href": "/docs/connections/storage/data-lakes/sync-reports/"
+    },
+    {
+      "text": "AWS Lake Formation",
+      "href": "/docs/connections/storage/data-lakes/lake-formation/"
+    },
+    {
+      "text": "Data Lakes Sync History and Health",
+      "href": "/docs/connections/storage/data-lakes/sync-history/"
+    },
+    {
+      "text": "Data Lakes vs. Warehouses",
+      "href": "/docs/connections/storage/data-lakes/comparison/"
+    },
+    {
+      "text": "Warehouse Overview",
+      "href": "/docs/connections/storage/warehouses/"
+    },
+    {
+      "text": "Warehouse Schemas",
+      "href": "/docs/connections/storage/warehouses/schema/"
+    },
+    {
+      "text": "Warehouse Syncs",
+      "href": "/docs/connections/storage/warehouses/warehouse-syncs/"
+    },
+    {
+      "text": "Warehouse Health Dashboards",
+      "href": "/docs/connections/storage/warehouses/health/"
+    },
+    {
+      "text": "Choosing a Warehouse",
+      "href": "/docs/connections/storage/warehouses/choose-warehouse/"
+    },
+    {
+      "text": "Warehouse FAQs",
+      "href": "/docs/connections/storage/warehouses/faq/"
+    },
+    {
+      "text": "Adding Warehouse Users",
+      "href": "/docs/connections/storage/warehouses/add-warehouse-users/"
+    },
+    {
+      "text": "Warehouse Errors",
+      "href": "/docs/connections/storage/warehouses/warehouse-errors/"
+    },
+    {
+      "text": "Redshift Cluster and Redshift Connector Limitations",
+      "href": "/docs/connections/storage/warehouses/redshift-faq/"
+    },
+    {
+      "text": "Speeding Up Redshift Queries",
+      "href": "/docs/connections/storage/warehouses/redshift-tuning/"
+    },
+    {
+      "text": "Useful SQL Queries for Redshift",
+      "href": "/docs/connections/storage/warehouses/redshift-useful-sql/"
+    },
+    {
+      "text": "Regional Segment",
+      "href": "/docs/connections/regional-segment/"
+    },
+    {
+      "text": "Event Tester",
+      "href": "/docs/connections/test-connections/"
+    },
+    {
+      "text": "Data Export Options",
+      "href": "/docs/connections/data-export-options/"
+    },
+    {
+      "text": "Using Schema Controls",
+      "href": "/docs/connections/destination-data-control/"
+    },
+    {
+      "text": "Event Delivery",
+      "href": "/docs/connections/event-delivery/"
+    },
+    {
+      "text": "Delivery Overview",
+      "href": "/docs/connections/delivery-overview/"
+    },
+    {
+      "text": "Connections Alerting",
+      "href": "/docs/connections/alerting/"
+    },
+    {
+      "text": "Locate Your Write Key",
+      "href": "/docs/connections/find-writekey/"
+    },
+    {
+      "text": "Integration Error Codes",
+      "href": "/docs/connections/integration_error_codes/"
+    },
+    {
+      "text": "Rate Limits",
+      "href": "/docs/connections/rate-limits/"
+    },
+    {
+      "text": "OAuth 2.0",
+      "href": "/docs/connections/oauth/"
+    },
+    {
+      "text": "AWS PrivateLink Integration",
+      "href": "/docs/connections/aws-privatelink/"
+    },
+    {
+      "text": "Unify Overview",
+      "href": "/docs/unify/"
+    },
+    {
+      "text": "Unify Onboarding",
+      "href": "/docs/unify/quickstart/"
+    },
+    {
+      "text": "Overview",
+      "href": "/docs/unify/identity-resolution/"
+    },
+    {
+      "text": "Onboarding",
+      "href": "/docs/unify/identity-resolution/identity-resolution-onboarding/"
+    },
+    {
+      "text": "Space Setup",
+      "href": "/docs/unify/identity-resolution/space-setup/"
+    },
+    {
+      "text": "Use Cases",
+      "href": "/docs/unify/identity-resolution/use-cases/"
+    },
+    {
+      "text": "External IDs",
+      "href": "/docs/unify/identity-resolution/externalids/"
+    },
+    {
+      "text": "Settings",
+      "href": "/docs/unify/identity-resolution/identity-resolution-settings/"
+    },
+    {
+      "text": "E-Commerce Example",
+      "href": "/docs/unify/identity-resolution/ecommerce-example/"
+    },
+    {
+      "text": "Profiles Sync Overview",
+      "href": "/docs/unify/profiles-sync/overview/"
+    },
+    {
+      "text": "Setup",
+      "href": "/docs/unify/profiles-sync/profiles-sync-setup/"
+    },
+    {
+      "text": "Databricks for Profiles Sync",
+      "href": "/docs/unify/profiles-sync/profiles-sync-setup/databricks-profiles-sync/"
+    },
+    {
+      "text": "Sample Queries",
+      "href": "/docs/unify/profiles-sync/sample-queries/"
+    },
+    {
+      "text": "Tables & Materialized Views",
+      "href": "/docs/unify/profiles-sync/tables/"
+    },
+    {
+      "text": "Data Graph",
+      "href": "/docs/unify/data-graph//"
+    },
+    {
+      "text": "BigQuery Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/bigquery-setup//"
+    },
+    {
+      "text": "Databricks Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/databricks-setup//"
+    },
+    {
+      "text": "Redshift Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/redshift-setup//"
+    },
+    {
+      "text": "Snowflake Data Graph Setup",
+      "href": "/docs/unify/data-graph/setup-guides/snowflake-setup//"
+    },
+    {
+      "text": "Linked Events Overview",
+      "href": "/docs/unify/data-graph/linked-events//"
+    },
+    {
+      "text": "Linked Events Limits",
+      "href": "/docs/unify/data-graph/linked-events-limits//"
+    },
+    {
+      "text": "Predictions",
+      "href": "/docs/unify/traits/predictions//"
+    },
+    {
+      "text": "Using Predictions",
+      "href": "/docs/unify/traits/predictions/using-predictions/"
+    },
+    {
+      "text": "Suggested Predictive Audiences",
+      "href": "/docs/unify/traits/predictions/suggested-predictive-audiences/"
+    },
+    {
+      "text": "Predictions Nutrition Facts Label",
+      "href": "/docs/unify/traits/predictions/predictions-nutrition-facts/"
+    },
+    {
+      "text": "Computed Traits",
+      "href": "/docs/unify/traits/computed-traits/"
+    },
+    {
+      "text": "Custom Traits",
+      "href": "/docs/unify/traits/custom-traits/"
+    },
+    {
+      "text": "SQL Traits",
+      "href": "/docs/unify/traits/sql-traits/"
+    },
+    {
+      "text": "Recommended Items",
+      "href": "/docs/unify/traits/recommended-items/"
+    },
+    {
+      "text": "Profile API",
+      "href": "/docs/unify/profile-api/"
+    },
+    {
+      "text": "Profile Debugger",
+      "href": "/docs/unify/debugger/"
+    },
+    {
+      "text": "Profiles Insights",
+      "href": "/docs/unify/insights/"
+    },
+    {
+      "text": "CSV Upload",
+      "href": "/docs/unify/csv-upload/"
+    },
+    {
+      "text": "Unify and GDPR",
+      "href": "/docs/unify/unify-gdpr/"
+    },
+    {
+      "text": "Unify FAQs",
+      "href": "/docs/unify/faqs/"
+    },
+    {
+      "text": "Unify Limits",
+      "href": "/docs/unify/product-limits/"
+    },
+    {
+      "text": "Introduction",
+      "href": "/docs/engage/"
+    },
+    {
+      "text": "Foundations Onboarding",
+      "href": "/docs/engage/quickstart/"
+    },
+    {
+      "text": "Premier Onboarding",
+      "href": "/docs/engage/onboarding/"
+    },
+    {
+      "text": "Use Cases",
+      "href": "/docs/engage/use-cases/"
+    },
+    {
+      "text": "User Subscriptions",
+      "href": "/docs/engage/user-subscriptions/"
+    },
+    {
+      "text": "Set User Subscriptions",
+      "href": "/docs/engage/user-subscriptions/set-user-subscriptions/"
+    },
+    {
+      "text": "Subscription States",
+      "href": "/docs/engage/user-subscriptions/subscription-states/"
+    },
+    {
+      "text": "Subscription Groups",
+      "href": "/docs/engage/user-subscriptions/subscription-groups/"
+    },
+    {
+      "text": "Subscriptions with SQL Traits",
+      "href": "/docs/engage/user-subscriptions/subscription-sql/"
+    },
+    {
+      "text": "Update Subscriptions with a CSV",
+      "href": "/docs/engage/user-subscriptions/csv-upload/"
+    },
+    {
+      "text": "Use Profiles and Traits with a CSV",
+      "href": "/docs/engage/profiles/csv-upload/"
+    },
+    {
+      "text": "Audiences Overview",
+      "href": "/docs/engage/audiences/"
+    },
+    {
+      "text": "Linked Audiences Overview",
+      "href": "/docs/engage/audiences/linked-audiences/"
+    },
+    {
+      "text": "Linked Audiences Limits",
+      "href": "/docs/engage/audiences/linked-audiences-limits/"
+    },
+    {
+      "text": "Account-level Audiences",
+      "href": "/docs/engage/audiences/account-audiences/"
+    },
+    {
+      "text": "Generative Audiences",
+      "href": "/docs/engage/audiences/generative-audiences/"
+    },
+    {
+      "text": "Generative Audiences Nutrition Facts Label",
+      "href": "/docs/engage/audiences/generative-audiences-nutrition-facts/"
+    },
+    {
+      "text": "Product Based Audiences",
+      "href": "/docs/engage/audiences/product-based-audiences/"
+    },
+    {
+      "text": "Product Based Audiences Nutrition Facts Label",
+      "href": "/docs/engage/audiences/product-based-audiences-nutrition-label/"
+    },
+    {
+      "text": "Organize Audiences",
+      "href": "/docs/engage/audiences/organization/"
+    },
+    {
+      "text": "Send Audiences to Destinations",
+      "href": "/docs/engage/audiences/send-audience-data/"
+    },
+    {
+      "text": "Journeys Overview",
+      "href": "/docs/engage/journeys/"
+    },
+    {
+      "text": "Build a Journey",
+      "href": "/docs/engage/journeys/build-journey/"
+    },
+    {
+      "text": "Journey Step Types",
+      "href": "/docs/engage/journeys/step-types/"
+    },
+    {
+      "text": "Journey Edits and Versioning",
+      "href": "/docs/engage/journeys/journeys-edits/"
+    },
+    {
+      "text": "Send Data to Destinations",
+      "href": "/docs/engage/journeys/send-data/"
+    },
+    {
+      "text": "Journeys Analytics",
+      "href": "/docs/engage/journeys/journeys-analytics/"
+    },
+    {
+      "text": "Event-Triggered Journeys Overview",
+      "href": "/docs/engage/journeys/event-triggered-journeys/"
+    },
+    {
+      "text": "Journey Context",
+      "href": "/docs/engage/journeys/journey-context/"
+    },
+    {
+      "text": "Journeys Best Practices and FAQ",
+      "href": "/docs/engage/journeys/faq-best-practices/"
+    },
+    {
+      "text": "Example Journeys Use Cases",
+      "href": "/docs/engage/journeys/use-cases/"
+    },
+    {
+      "text": "Understand Journeys Logic",
+      "href": "/docs/engage/journeys/journeys-logic/"
+    },
+    {
+      "text": "Journeys Glossary",
+      "href": "/docs/engage/journeys/key-terms/"
+    },
+    {
+      "text": "Email Template",
+      "href": "/docs/engage/content/email/template/"
+    },
+    {
+      "text": "Drag and Drop Editor",
+      "href": "/docs/engage/content/email/editor/"
+    },
+    {
+      "text": "HTML Editor",
+      "href": "/docs/engage/content/email/html-editor/"
+    },
+    {
+      "text": "SMS Template",
+      "href": "/docs/engage/content/sms/template/"
+    },
+    {
+      "text": "WhatsApp Template",
+      "href": "/docs/engage/content/whatsapp/"
+    },
+    {
+      "text": "Mobile Push Template",
+      "href": "/docs/engage/content/mobile-push/"
+    },
+    {
+      "text": "Organizing Your Templates",
+      "href": "/docs/engage/content/organization/"
+    },
+    {
+      "text": "Campaigns Overview",
+      "href": "/docs/engage/campaigns/"
+    },
+    {
+      "text": "Email Campaigns",
+      "href": "/docs/engage/campaigns/email-campaigns/"
+    },
+    {
+      "text": "SMS Campaigns",
+      "href": "/docs/engage/campaigns/sms-campaigns/"
+    },
+    {
+      "text": "Broadcasts",
+      "href": "/docs/engage/campaigns/broadcasts/"
+    },
+    {
+      "text": "WhatsApp Campaigns",
+      "href": "/docs/engage/campaigns/whatsapp-campaigns/"
+    },
+    {
+      "text": "Mobile Push Onboarding",
+      "href": "/docs/engage/campaigns/mobile-push/"
+    },
+    {
+      "text": "Mobile Push Campaigns",
+      "href": "/docs/engage/campaigns/mobile-push/push-campaigns/"
+    },
+    {
+      "text": "Trait Activation Overview",
+      "href": "/docs/engage/trait-activation/"
+    },
+    {
+      "text": "Trait Enrichment",
+      "href": "/docs/engage/trait-activation/trait-enrichment/"
+    },
+    {
+      "text": "ID Sync",
+      "href": "/docs/engage/trait-activation/id-sync/"
+    },
+    {
+      "text": "Analytics Overview",
+      "href": "/docs/engage/analytics/"
+    },
+    {
+      "text": "Engage Settings",
+      "href": "/docs/engage/settings/"
+    },
+    {
+      "text": "Engage Default Limits",
+      "href": "/docs/engage/product-limits/"
+    },
+    {
+      "text": "Engage and Warehouses",
+      "href": "/docs/engage/warehouses/"
+    },
+    {
+      "text": "Using Engage Data",
+      "href": "/docs/engage/using-engage-data/"
+    },
+    {
+      "text": "Engage FAQs",
+      "href": "/docs/engage/faqs/"
+    },
+    {
+      "text": "Privacy Overview",
+      "href": "/docs/privacy/"
+    },
+    {
+      "text": "Detect PII",
+      "href": "/docs/privacy/portal/"
+    },
+    {
+      "text": "Data Controls and Alerts",
+      "href": "/docs/privacy/data-controls/"
+    },
+    {
+      "text": "Complying With GDPR",
+      "href": "/docs/privacy/complying-with-the-gdpr/"
+    },
+    {
+      "text": "User Deletion and Suppression",
+      "href": "/docs/privacy/user-deletion-and-suppression/"
+    },
+    {
+      "text": "Consent Management Overview",
+      "href": "/docs/privacy/consent-management/"
+    },
+    {
+      "text": "Consent in Segment Connections",
+      "href": "/docs/privacy/consent-management/consent-in-segment-connections/"
+    },
+    {
+      "text": "Configure Consent Management",
+      "href": "/docs/privacy/consent-management/configure-consent-management/"
+    },
+    {
+      "text": "Consent in Unify",
+      "href": "/docs/privacy/consent-management/consent-in-unify/"
+    },
+    {
+      "text": "Consent in Reverse ETL",
+      "href": "/docs/privacy/consent-management/consent-in-retl/"
+    },
+    {
+      "text": "Consent FAQs",
+      "href": "/docs/privacy/consent-management/consent-faq/"
+    },
+    {
+      "text": "Account & Data Deletion",
+      "href": "/docs/privacy/account-deletion/"
+    },
+    {
+      "text": "HIPAA Eligible Segment",
+      "href": "/docs/privacy/hipaa-eligible-segment/"
+    },
+    {
+      "text": "Privacy FAQs",
+      "href": "/docs/privacy/faq/"
+    },
+    {
+      "text": "Protocols Overview",
+      "href": "/docs/protocols/"
+    },
+    {
+      "text": "Data Collection Best Practices",
+      "href": "/docs/protocols/tracking-plan/best-practices/"
+    },
+    {
+      "text": "The Tracking Plan",
+      "href": "/docs/protocols/tracking-plan/create/"
+    },
+    {
+      "text": "Tracking Plan Libraries",
+      "href": "/docs/protocols/tracking-plan/libraries/"
+    },
+    {
+      "text": "Connect Sources to Your Tracking Plan",
+      "href": "/docs/protocols/validate/connect-sources/"
+    },
+    {
+      "text": "Review and Resolve Event Violations",
+      "href": "/docs/protocols/validate/review-violations/"
+    },
+    {
+      "text": "Forward Violations",
+      "href": "/docs/protocols/validate/forward-violations/"
+    },
+    {
+      "text": "Customize Your Schema Controls",
+      "href": "/docs/protocols/enforce/schema-configuration/"
+    },
+    {
+      "text": "Forward Blocked Events",
+      "href": "/docs/protocols/enforce/forward-blocked-events/"
+    },
+    {
+      "text": "Transform to Fix Bad Data",
+      "href": "/docs/protocols/transform/"
+    },
+    {
+      "text": "Protocols APIs",
+      "href": "/docs/protocols/apis-and-extensions/"
+    },
+    {
+      "text": "Typewriter",
+      "href": "/docs/protocols/apis-and-extensions/typewriter/"
+    },
+    {
+      "text": "Anomaly Detection",
+      "href": "/docs/protocols/apis-and-extensions/anomaly_detection/"
+    },
+    {
+      "text": "Schema Controls",
+      "href": "/docs/protocols/schema/"
+    },
+    {
+      "text": "Protocols FAQs",
+      "href": "/docs/protocols/faq/"
+    },
+    {
+      "text": "Segment Web App",
+      "href": "/docs/segment-app/"
+    },
+    {
+      "text": "Workspace Home",
+      "href": "/docs/segment-app/workspace-home/"
+    },
+    {
+      "text": "Identity & Access Management Overview",
+      "href": "/docs/segment-app/iam/"
+    },
+    {
+      "text": "Concepts",
+      "href": "/docs/segment-app/iam/concepts/"
+    },
+    {
+      "text": "Roles",
+      "href": "/docs/segment-app/iam/roles/"
+    },
+    {
+      "text": "Manage Workspace Access",
+      "href": "/docs/segment-app/iam/membership/"
+    },
+    {
+      "text": "Label-Based Access Control",
+      "href": "/docs/segment-app/iam/labels/"
+    },
+    {
+      "text": "Audit Trail",
+      "href": "/docs/segment-app/iam/audit-trail/"
+    },
+    {
+      "text": "Single Sign On",
+      "href": "/docs/segment-app/iam/sso/"
+    },
+    {
+      "text": "System for Cross-domain Identity Management (SCIM) Configuration Guide",
+      "href": "/docs/segment-app/iam/scim/"
+    },
+    {
+      "text": "Multi-Factor Authentication (MFA)",
+      "href": "/docs/segment-app/iam/mfa/"
+    },
+    {
+      "text": "Extensions Overview",
+      "href": "/docs/segment-app/extensions/"
+    },
+    {
+      "text": "dbt",
+      "href": "/docs/segment-app/extensions/dbt/"
+    },
+    {
+      "text": "Git",
+      "href": "/docs/segment-app/extensions/git/"
+    },
+    {
+      "text": "Picking a Secure Password",
+      "href": "/docs/segment-app/iam/secure-password/"
+    },
+    {
+      "text": "Prod and Testing Environments in Segment",
+      "href": "/docs/segment-app/set-up-envs/"
+    },
+    {
+      "text": "Verifying Your Email Address",
+      "href": "/docs/segment-app/verify-email-address/"
+    },
+    {
+      "text": "Support Access",
+      "href": "/docs/segment-app/support-access/"
+    },
+    {
+      "text": "Public API",
+      "href": "/docs/api/public-api/"
+    },
+    {
+      "text": "Destination Filter Query Language",
+      "href": "/docs/api/public-api/fql/"
+    },
+    {
+      "text": "Segment Query Language",
+      "href": "/docs/api/public-api/query-language/"
+    },
+    {
+      "text": "Config API overview",
+      "href": "/docs/api/config-api/"
+    },
+    {
+      "text": "API design",
+      "href": "/docs/api/config-api/api-design/"
+    },
+    {
+      "text": "Authentication",
+      "href": "/docs/api/config-api/authentication/"
+    },
+    {
+      "text": "Destination Filter Query Language",
+      "href": "/docs/api/config-api/fql/"
+    },
+    {
+      "text": "Partners",
+      "href": "/docs/partners/"
+    },
+    {
+      "text": "Glossary",
+      "href": "/docs/glossary/"
+    },
+    {
+      "text": "Config API overview",
+      "href": "/docs/config-api/"
+    },
+    {
+      "text": "API design",
+      "href": "/docs/config-api/api-design/"
+    },
+    {
+      "text": "Authentication",
+      "href": "/docs/config-api/authentication/"
+    },
+    {
+      "text": "Destination Filter Query Language",
+      "href": "/docs/config-api/fql/"
+    },
+    {
+      "text": "Reference",
+      "href": "https://reference.segmentapis.com/"
+    },
+    {
+      "text": "Creating a Javascript web source and Google Analytics destination",
+      "href": "/docs/config-api/tutorial-javascript-google-analytics/"
+    },
+    {
+      "text": "Help",
+      "href": "/docs/help/"
+    },
+    {
+      "text": "Getting started with Segment\n      \n\n      \n        Learn about Segment, plan and work through a basic implementation, and explore features and extensions.",
+      "href": "/docs/getting-started/"
+    },
+    {
+      "text": "Simplify data collection\n      \n\n      \n        Integrate the tools you need for analytics, growth, marketing, and more.",
+      "href": "/docs/connections/"
+    },
+    {
+      "text": "Protect data integrity\n      \n\n      \n        Prevent data quality issues with a tracking schema and enforcement with Protocols.",
+      "href": "/docs/protocols/"
+    },
+    {
+      "text": "Personalize experiences\n      \n\n      \n        Build audiences and journeys from real-time customer data to personalize experiences on every channel.",
+      "href": "/docs/engage/"
+    },
+    {
+      "text": "Respect users' privacy\n      \n\n      \n        Keep customer data private with Segment's data discovery and policy enforcement tools.",
+      "href": "/docs/privacy/"
+    },
+    {
+      "text": "Segment calls\n      \n\n      \n        Use Track, Page, Identify, and other Segment tracking calls.",
+      "href": "/docs/connections/spec/"
+    },
+    {
+      "text": "Common traits\n      \n\n      \n        Save time by letting Segment calls collect information for you.",
+      "href": "/docs/connections/spec/common/"
+    },
+    {
+      "text": "Use case specs\n      \n\n      \n        Use our business-case specs to ensure that your tools get the most from your data.",
+      "href": "/docs/connections/spec/semantic/"
+    },
+    {
+      "text": "Segment for Developers\n      \n\n      \n        The basics of your Segment implementation.",
+      "href": "/docs/guides/intro-impl/"
+    },
+    {
+      "text": "How-To Guides\n      \n\n      \n        Over a dozen how-to guides that help you accomplish common tasks.",
+      "href": "/docs/guides/how-to-guides/"
+    },
+    {
+      "text": "JavaScript",
+      "href": "/docs/connections/sources/catalog/libraries/website/javascript/"
+    },
+    {
+      "text": "Swift",
+      "href": "/docs/connections/sources/catalog/libraries/mobile/swift-ios/"
+    },
+    {
+      "text": "All other Sources",
+      "href": "/docs/connections/sources/catalog/"
+    },
+    {
+      "text": "Totally new to Analytics?\n      \n\n      \n        Segment's Analytics Academy walks you through the wide world of analytics, including best practices, an overview of the most popular tools, and case studies of how other developers have achieved success.",
+      "href": "https://segment.com/academy/"
+    },
+    {
+      "text": "Want more hands-on guidance?\n      \n\n      \n        For a more hands-on tutorial of Segment, check out Segment University. It offers step-by-step instructions, starting with first steps and going through some of our more advanced features.",
+      "href": "https://university.segment.com/"
+    },
+    {
+      "text": "Visit our Support page",
+      "href": "https://segment.com/help/contact/"
+    },
+    {
+      "text": "Edit this page",
+      "href": "https://github.com/segmentio/segment-docs/edit/develop/src/index.md"
+    },
+    {
+      "text": "Request docs change",
+      "href": "https://github.com/segmentio/segment-docs/issues/new/choose?body=File:%20[index.md](https://segment.com/docs/)"
+    },
+    {
+      "text": "Send us feedback!",
+      "href": "#"
+    },
+    {
+      "text": "Create free account",
+      "href": "https://app.segment.com/signup"
+    },
+    {
+      "text": "Connections",
+      "href": "https://segment.com/product/connections/"
+    },
+    {
+      "text": "Protocols",
+      "href": "https://segment.com/product/protocols/"
+    },
+    {
+      "text": "Twilio Engage",
+      "href": "https://segment.com/product/twilio-engage/"
+    },
+    {
+      "text": "Integrations Catalog",
+      "href": "https://segment.com/catalog/"
+    },
+    {
+      "text": "Pricing",
+      "href": "https://segment.com/pricing/"
+    },
+    {
+      "text": "Security",
+      "href": "https://segment.com/security/"
+    },
+    {
+      "text": "GDPR",
+      "href": "https://segment.com/product/gdpr/"
+    },
+    {
+      "text": "Documentation",
+      "href": "https://segment.com/docs/"
+    },
+    {
+      "text": "Segment API",
+      "href": "https://segment.com/docs/api/public-api/"
+    },
+    {
+      "text": "Build on Segment",
+      "href": "https://segment.com/partners/developer-center/"
+    },
+    {
+      "text": "Open Source",
+      "href": "https://open.segment.com/"
+    },
+    {
+      "text": "Engineering Team",
+      "href": "https://segment.com/engineering/"
+    },
+    {
+      "text": "Careers",
+      "href": "https://segment.com/jobs/"
+    },
+    {
+      "text": "Blog",
+      "href": "https://segment.com/blog/"
+    },
+    {
+      "text": "Press",
+      "href": "https://segment.com/press/"
+    },
+    {
+      "text": "FTFY Podcast",
+      "href": "https://segment.com/podcast/"
+    },
+    {
+      "text": "Events",
+      "href": "https://segment.com/events/"
+    },
+    {
+      "text": "Help Center",
+      "href": "https://segment.com/help/"
+    },
+    {
+      "text": "Contact us",
+      "href": "https://segment.com/help/contact/"
+    },
+    {
+      "text": "Resources",
+      "href": "https://segment.com/resources/"
+    },
+    {
+      "text": "Recipes",
+      "href": "https://segment.com/recipes/"
+    },
+    {
+      "text": "Security Bulletins",
+      "href": "https://segment.com/security/bulletins/"
+    },
+    {
+      "text": "Become a Partner",
+      "href": "https://segment.com/partners/"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://segment.com/legal/privacy/"
+    },
+    {
+      "text": "Terms",
+      "href": "https://segment.com/legal/terms/"
+    },
+    {
+      "text": "Website Data Collection Preferences",
+      "href": "#"
+    },
+    {
+      "text": "",
+      "href": "https://www.linkedin.com/company/segment-io/"
+    },
+    {
+      "text": "",
+      "href": "https://twitter.com/segment"
+    },
+    {
+      "text": "",
+      "href": "https://github.com/segmentio"
+    },
+    {
+      "text": ""
+    }
+  ],
+  "keywords": [
+    "skip to main content",
+    "",
+    "home",
+    "what is segment?",
+    "how segment works",
+    "getting started guide",
+    "a basic segment installation",
+    "planning a full installation",
+    "a full segment installation",
+    "sending data to destinations",
+    "testing and debugging",
+    "what's next",
+    "use cases overview",
+    "choosing a use case",
+    "use cases setup",
+    "use cases reference",
+    "an introduction to segment",
+    "for developers",
+    "for data users",
+    "for workspace admins",
+    "filtering your segment data",
+    "handling duplicate data",
+    "internet bots",
+    "segment vs. tag managers",
+    "replay",
+    "regional segment",
+    "audiences and journeys",
+    "how-to guides index",
+    "automating multi-channel re-engagement campaigns",
+    "collecting data on the client or server",
+    "collecting pageviews on the server side",
+    "creating a push notification",
+    "tracking customers across channels and devices",
+    "setting up a dynamic coupon program to reward loyal customers",
+    "forecasting ltv with sql and excel for e-commerce",
+    "importing historical data",
+    "joining user profiles",
+    "measuring your advertising funnel",
+    "measuring the roi of your marketing campaigns",
+    "migrating code from other analytics tools",
+    "segment's role in attribution",
+    "setting up event-triggered notifications or alerts",
+    "account management",
+    "billing and account faqs",
+    "mtus, throughput and billing",
+    "discounts or coupons",
+    "segment startup program",
+    "overview",
+    "spec overview",
+    "spec: page",
+    "spec: screen",
+    "spec: track",
+    "spec: group",
+    "spec: identify",
+    "spec: alias",
+    "spec: ai copilot",
+    "spec: common fields",
+    "native mobile spec",
+    "what is the native mobile spec?",
+    "packaging sdks for mobile destinations",
+    "spec: semantic events",
+    "spec: b2b saas",
+    "spec: ecommerce events",
+    "ecommerce tracking plans",
+    "video spec",
+    "best practices for identifying users",
+    "best practices for event calls",
+    "sources overview",
+    "sources catalog",
+    "cloud sources",
+    "source debugger",
+    "segment-managed custom domain",
+    "self-managed custom proxy",
+    "visual tagger",
+    "schema controls",
+    "using schema controls",
+    "schema unique limits",
+    "destinations overview",
+    "destination actions",
+    "add a destination",
+    "destinations catalog",
+    "destination filters",
+    "reverse etl overview",
+    "set up reverse etl",
+    "manage reverse etl syncs",
+    "reverse etl system",
+    "reverse etl destination catalog",
+    "azure reverse etl setup",
+    "bigquery reverse etl setup",
+    "databricks reverse etl setup",
+    "postgres reverse etl setup",
+    "redshift reverse etl setup",
+    "snowflake reverse etl setup",
+    "functions overview",
+    "source functions",
+    "destination functions",
+    "destination insert functions",
+    "functions copilot",
+    "functions copilot nutrition facts label",
+    "functions environment",
+    "functions usage limits",
+    "functions for aws apis",
+    "storage destinations overview",
+    "storage destinations catalog",
+    "data lakes overview",
+    "set up data lakes",
+    "sync reports and error reporting",
+    "aws lake formation",
+    "data lakes sync history and health",
+    "data lakes vs. warehouses",
+    "warehouse overview",
+    "warehouse schemas",
+    "warehouse syncs",
+    "warehouse health dashboards",
+    "choosing a warehouse",
+    "warehouse faqs",
+    "adding warehouse users",
+    "warehouse errors",
+    "redshift cluster and redshift connector limitations",
+    "speeding up redshift queries",
+    "useful sql queries for redshift",
+    "regional segment",
+    "event tester",
+    "data export options",
+    "using schema controls",
+    "event delivery",
+    "delivery overview",
+    "connections alerting",
+    "locate your write key",
+    "integration error codes",
+    "rate limits",
+    "oauth 2.0",
+    "aws privatelink integration",
+    "unify overview",
+    "unify onboarding",
+    "overview",
+    "onboarding",
+    "space setup",
+    "use cases",
+    "external ids",
+    "settings",
+    "e-commerce example",
+    "profiles sync overview",
+    "setup",
+    "databricks for profiles sync",
+    "sample queries",
+    "tables & materialized views",
+    "data graph",
+    "bigquery data graph setup",
+    "databricks data graph setup",
+    "redshift data graph setup",
+    "snowflake data graph setup",
+    "linked events overview",
+    "linked events limits",
+    "predictions",
+    "using predictions",
+    "suggested predictive audiences",
+    "predictions nutrition facts label",
+    "computed traits",
+    "custom traits",
+    "sql traits",
+    "recommended items",
+    "profile api",
+    "profile debugger",
+    "profiles insights",
+    "csv upload",
+    "unify and gdpr",
+    "unify faqs",
+    "unify limits",
+    "introduction",
+    "foundations onboarding",
+    "premier onboarding",
+    "use cases",
+    "user subscriptions",
+    "set user subscriptions",
+    "subscription states",
+    "subscription groups",
+    "subscriptions with sql traits",
+    "update subscriptions with a csv",
+    "use profiles and traits with a csv",
+    "audiences overview",
+    "linked audiences overview",
+    "linked audiences limits",
+    "account-level audiences",
+    "generative audiences",
+    "generative audiences nutrition facts label",
+    "product based audiences",
+    "product based audiences nutrition facts label",
+    "organize audiences",
+    "send audiences to destinations",
+    "journeys overview",
+    "build a journey",
+    "journey step types",
+    "journey edits and versioning",
+    "send data to destinations",
+    "journeys analytics",
+    "event-triggered journeys overview",
+    "journey context",
+    "journeys best practices and faq",
+    "example journeys use cases",
+    "understand journeys logic",
+    "journeys glossary",
+    "email template",
+    "drag and drop editor",
+    "html editor",
+    "sms template",
+    "whatsapp template",
+    "mobile push template",
+    "organizing your templates",
+    "campaigns overview",
+    "email campaigns",
+    "sms campaigns",
+    "broadcasts",
+    "whatsapp campaigns",
+    "mobile push onboarding",
+    "mobile push campaigns",
+    "trait activation overview",
+    "trait enrichment",
+    "id sync",
+    "analytics overview",
+    "engage settings",
+    "engage default limits",
+    "engage and warehouses",
+    "using engage data",
+    "engage faqs",
+    "privacy overview",
+    "detect pii",
+    "data controls and alerts",
+    "complying with gdpr",
+    "user deletion and suppression",
+    "consent management overview",
+    "consent in segment connections",
+    "configure consent management",
+    "consent in unify",
+    "consent in reverse etl",
+    "consent faqs",
+    "account & data deletion",
+    "hipaa eligible segment",
+    "privacy faqs",
+    "protocols overview",
+    "data collection best practices",
+    "the tracking plan",
+    "tracking plan libraries",
+    "connect sources to your tracking plan",
+    "review and resolve event violations",
+    "forward violations",
+    "customize your schema controls",
+    "forward blocked events",
+    "transform to fix bad data",
+    "protocols apis",
+    "typewriter",
+    "anomaly detection",
+    "schema controls",
+    "protocols faqs",
+    "segment web app",
+    "workspace home",
+    "identity & access management overview",
+    "concepts",
+    "roles",
+    "manage workspace access",
+    "label-based access control",
+    "audit trail",
+    "single sign on",
+    "system for cross-domain identity management (scim) configuration guide",
+    "multi-factor authentication (mfa)",
+    "extensions overview",
+    "dbt",
+    "git",
+    "picking a secure password",
+    "prod and testing environments in segment",
+    "verifying your email address",
+    "support access",
+    "public api",
+    "destination filter query language",
+    "segment query language",
+    "config api overview",
+    "api design",
+    "authentication",
+    "destination filter query language",
+    "partners",
+    "glossary",
+    "help",
+    "product updates",
+    "back to segment.com",
+    "log in",
+    "sign up",
+    "",
+    "home",
+    "what is segment?",
+    "how segment works",
+    "getting started guide",
+    "a basic segment installation",
+    "planning a full installation",
+    "a full segment installation",
+    "sending data to destinations",
+    "testing and debugging",
+    "what's next",
+    "use cases overview",
+    "choosing a use case",
+    "use cases setup",
+    "use cases reference",
+    "an introduction to segment",
+    "for developers",
+    "for data users",
+    "for workspace admins",
+    "filtering your segment data",
+    "handling duplicate data",
+    "internet bots",
+    "segment vs. tag managers",
+    "replay",
+    "regional segment",
+    "audiences and journeys",
+    "how-to guides index",
+    "automating multi-channel re-engagement campaigns",
+    "collecting data on the client or server",
+    "collecting pageviews on the server side",
+    "creating a push notification",
+    "tracking customers across channels and devices",
+    "setting up a dynamic coupon program to reward loyal customers",
+    "forecasting ltv with sql and excel for e-commerce",
+    "importing historical data",
+    "joining user profiles",
+    "measuring your advertising funnel",
+    "measuring the roi of your marketing campaigns",
+    "migrating code from other analytics tools",
+    "segment's role in attribution",
+    "setting up event-triggered notifications or alerts",
+    "account management",
+    "billing and account faqs",
+    "mtus, throughput and billing",
+    "discounts or coupons",
+    "segment startup program",
+    "overview",
+    "spec overview",
+    "spec: page",
+    "spec: screen",
+    "spec: track",
+    "spec: group",
+    "spec: identify",
+    "spec: alias",
+    "spec: ai copilot",
+    "spec: common fields",
+    "native mobile spec",
+    "what is the native mobile spec?",
+    "packaging sdks for mobile destinations",
+    "spec: semantic events",
+    "spec: b2b saas",
+    "spec: ecommerce events",
+    "ecommerce tracking plans",
+    "video spec",
+    "best practices for identifying users",
+    "best practices for event calls",
+    "sources overview",
+    "sources catalog",
+    "cloud sources",
+    "source debugger",
+    "segment-managed custom domain",
+    "self-managed custom proxy",
+    "visual tagger",
+    "schema controls",
+    "using schema controls",
+    "schema unique limits",
+    "destinations overview",
+    "destination actions",
+    "add a destination",
+    "destinations catalog",
+    "destination filters",
+    "reverse etl overview",
+    "set up reverse etl",
+    "manage reverse etl syncs",
+    "reverse etl system",
+    "reverse etl destination catalog",
+    "azure reverse etl setup",
+    "bigquery reverse etl setup",
+    "databricks reverse etl setup",
+    "postgres reverse etl setup",
+    "redshift reverse etl setup",
+    "snowflake reverse etl setup",
+    "functions overview",
+    "source functions",
+    "destination functions",
+    "destination insert functions",
+    "functions copilot",
+    "functions copilot nutrition facts label",
+    "functions environment",
+    "functions usage limits",
+    "functions for aws apis",
+    "storage destinations overview",
+    "storage destinations catalog",
+    "data lakes overview",
+    "set up data lakes",
+    "sync reports and error reporting",
+    "aws lake formation",
+    "data lakes sync history and health",
+    "data lakes vs. warehouses",
+    "warehouse overview",
+    "warehouse schemas",
+    "warehouse syncs",
+    "warehouse health dashboards",
+    "choosing a warehouse",
+    "warehouse faqs",
+    "adding warehouse users",
+    "warehouse errors",
+    "redshift cluster and redshift connector limitations",
+    "speeding up redshift queries",
+    "useful sql queries for redshift",
+    "regional segment",
+    "event tester",
+    "data export options",
+    "using schema controls",
+    "event delivery",
+    "delivery overview",
+    "connections alerting",
+    "locate your write key",
+    "integration error codes",
+    "rate limits",
+    "oauth 2.0",
+    "aws privatelink integration",
+    "unify overview",
+    "unify onboarding",
+    "overview",
+    "onboarding",
+    "space setup",
+    "use cases",
+    "external ids",
+    "settings",
+    "e-commerce example",
+    "profiles sync overview",
+    "setup",
+    "databricks for profiles sync",
+    "sample queries",
+    "tables & materialized views",
+    "data graph",
+    "bigquery data graph setup",
+    "databricks data graph setup",
+    "redshift data graph setup",
+    "snowflake data graph setup",
+    "linked events overview",
+    "linked events limits",
+    "predictions",
+    "using predictions",
+    "suggested predictive audiences",
+    "predictions nutrition facts label",
+    "computed traits",
+    "custom traits",
+    "sql traits",
+    "recommended items",
+    "profile api",
+    "profile debugger",
+    "profiles insights",
+    "csv upload",
+    "unify and gdpr",
+    "unify faqs",
+    "unify limits",
+    "introduction",
+    "foundations onboarding",
+    "premier onboarding",
+    "use cases",
+    "user subscriptions",
+    "set user subscriptions",
+    "subscription states",
+    "subscription groups",
+    "subscriptions with sql traits",
+    "update subscriptions with a csv",
+    "use profiles and traits with a csv",
+    "audiences overview",
+    "linked audiences overview",
+    "linked audiences limits",
+    "account-level audiences",
+    "generative audiences",
+    "generative audiences nutrition facts label",
+    "product based audiences",
+    "product based audiences nutrition facts label",
+    "organize audiences",
+    "send audiences to destinations",
+    "journeys overview",
+    "build a journey",
+    "journey step types",
+    "journey edits and versioning",
+    "send data to destinations",
+    "journeys analytics",
+    "event-triggered journeys overview",
+    "journey context",
+    "journeys best practices and faq",
+    "example journeys use cases",
+    "understand journeys logic",
+    "journeys glossary",
+    "email template",
+    "drag and drop editor",
+    "html editor",
+    "sms template",
+    "whatsapp template",
+    "mobile push template",
+    "organizing your templates",
+    "campaigns overview",
+    "email campaigns",
+    "sms campaigns",
+    "broadcasts",
+    "whatsapp campaigns",
+    "mobile push onboarding",
+    "mobile push campaigns",
+    "trait activation overview",
+    "trait enrichment",
+    "id sync",
+    "analytics overview",
+    "engage settings",
+    "engage default limits",
+    "engage and warehouses",
+    "using engage data",
+    "engage faqs",
+    "privacy overview",
+    "detect pii",
+    "data controls and alerts",
+    "complying with gdpr",
+    "user deletion and suppression",
+    "consent management overview",
+    "consent in segment connections",
+    "configure consent management",
+    "consent in unify",
+    "consent in reverse etl",
+    "consent faqs",
+    "account & data deletion",
+    "hipaa eligible segment",
+    "privacy faqs",
+    "protocols overview",
+    "data collection best practices",
+    "the tracking plan",
+    "tracking plan libraries",
+    "connect sources to your tracking plan",
+    "review and resolve event violations",
+    "forward violations",
+    "customize your schema controls",
+    "forward blocked events",
+    "transform to fix bad data",
+    "protocols apis",
+    "typewriter",
+    "anomaly detection",
+    "schema controls",
+    "protocols faqs",
+    "segment web app",
+    "workspace home",
+    "identity & access management overview",
+    "concepts",
+    "roles",
+    "manage workspace access",
+    "label-based access control",
+    "audit trail",
+    "single sign on",
+    "system for cross-domain identity management (scim) configuration guide",
+    "multi-factor authentication (mfa)",
+    "extensions overview",
+    "dbt",
+    "git",
+    "picking a secure password",
+    "prod and testing environments in segment",
+    "verifying your email address",
+    "support access",
+    "public api",
+    "destination filter query language",
+    "segment query language",
+    "config api overview",
+    "api design",
+    "authentication",
+    "destination filter query language",
+    "partners",
+    "glossary",
+    "config api overview",
+    "api design",
+    "authentication",
+    "destination filter query language",
+    "reference",
+    "creating a javascript web source and google analytics destination",
+    "help",
+    "getting started with segment\n      \n\n      \n        learn about segment, plan and work through a basic implementation, and explore features and extensions.",
+    "simplify data collection\n      \n\n      \n        integrate the tools you need for analytics, growth, marketing, and more.",
+    "protect data integrity\n      \n\n      \n        prevent data quality issues with a tracking schema and enforcement with protocols.",
+    "personalize experiences\n      \n\n      \n        build audiences and journeys from real-time customer data to personalize experiences on every channel.",
+    "respect users' privacy\n      \n\n      \n        keep customer data private with segment's data discovery and policy enforcement tools.",
+    "segment calls\n      \n\n      \n        use track, page, identify, and other segment tracking calls.",
+    "common traits\n      \n\n      \n        save time by letting segment calls collect information for you.",
+    "use case specs\n      \n\n      \n        use our business-case specs to ensure that your tools get the most from your data.",
+    "segment for developers\n      \n\n      \n        the basics of your segment implementation.",
+    "how-to guides\n      \n\n      \n        over a dozen how-to guides that help you accomplish common tasks.",
+    "javascript",
+    "swift",
+    "all other sources",
+    "totally new to analytics?\n      \n\n      \n        segment's analytics academy walks you through the wide world of analytics, including best practices, an overview of the most popular tools, and case studies of how other developers have achieved success.",
+    "want more hands-on guidance?\n      \n\n      \n        for a more hands-on tutorial of segment, check out segment university. it offers step-by-step instructions, starting with first steps and going through some of our more advanced features.",
+    "visit our support page",
+    "edit this page",
+    "request docs change",
+    "send us feedback!",
+    "create free account",
+    "connections",
+    "protocols",
+    "twilio engage",
+    "integrations catalog",
+    "pricing",
+    "security",
+    "gdpr",
+    "documentation",
+    "segment api",
+    "build on segment",
+    "open source",
+    "engineering team",
+    "careers",
+    "blog",
+    "press",
+    "ftfy podcast",
+    "events",
+    "help center",
+    "contact us",
+    "resources",
+    "recipes",
+    "security bulletins",
+    "become a partner",
+    "privacy",
+    "terms",
+    "website data collection preferences",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
